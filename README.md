@@ -17,7 +17,7 @@ Selamat datang di proyek Deteksi Sampah! Proyek ini memanfaatkan model **YOLOv8*
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Notnith/Deteksi-sampah_sprtofy)
 
-**➡️ Kunjungi Aplikasi Web Kami: [Deteksi Sampah Sprtofy di Hugging Face Spaces](https://huggingface.co/spaces/Notnith/Deteksi-sampah_sprtofy) ⬅️**
+**➡️ Kunjungi Model Kami: [Deteksi Sampah Sprtofy di Hugging Face Spaces](https://huggingface.co/spaces/Notnith/Deteksi-sampah_sprtofy) ⬅️**
 
 ## 📝 Deskripsi Proyek
 
